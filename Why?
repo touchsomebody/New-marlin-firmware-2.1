@@ -1,0 +1,12 @@
+I don't understand why the latest version of Marlin firmware
+(2.1) is so different from previous versions.
+What was wrong with it!?  It was working fine for me!
+Unfortunately I was forced to renew my motherboard recently 
+and opted for the Big Tree Tech SKR 3 in combination with
+the BTT TFT32 v3 display.  Which I have to say, considering that
+both products are from the same company they are far from easy to
+combine.  (very little documentation.  And an incorrect instruction
+for plugging in!). I was forced to try to adopt the latest version of Marlin
+as it seems to be the only one which has files supporting my
+STM32H723 motherboard chip.  Why on earth change things seemingly
+for no good reason all the time?!
